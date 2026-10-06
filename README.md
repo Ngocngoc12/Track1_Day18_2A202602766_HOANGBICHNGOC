@@ -4,8 +4,8 @@
 
 - Họ và tên: **Hoàng Bích Ngọc**
 - Mã sinh viên: **2A202602766**
-- Tên nhóm: `[Bổ sung tên nhóm]`
-- Thành viên: `[Bổ sung đủ 3 thành viên]`
+- Tên nhóm: `OKEY`
+- Thành viên: `HOANG BICH NGOC - 2A202602766,Nguyễn Duy Khánh - 2A202602736,Nguyễn Phạm Oanh Oanh - 2A202602518`
 - Case: **AI Tutor — hỗ trợ learner trong quá trình học/làm lab**
 
 ## 2. Hypothesis Problem
