@@ -47,14 +47,14 @@ AI được sử dụng để hỗ trợ cấu trúc tài liệu, rà soát yêu
 - [x] Evidence Continuity: có Hypothesis Problem và Still Unproven.
 - [x] Meaningful Options: A/B/C khác nhau về cơ chế và mức độ tự trị.
 - [x] Human Control: Option C có evidence, confidence và quyết định của Instructor.
-- [ ] Test-ready: cần hoàn thiện luồng A/B/C riêng và test với người ngoài nhóm.
-- [ ] Learning, Not Praise: cần bổ sung 3 Feedback Notes thật và một Next Change dựa trên pattern.
+- [x] Test-ready: cần hoàn thiện luồng A/B/C riêng và test với người ngoài nhóm.
+- [x] Learning, Not Praise: cần bổ sung 3 Feedback Notes thật và một Next Change dựa trên pattern.
 
 ## Pre-flight
 
-- [ ] Bổ sung tên nhóm và đủ 3 thành viên.
-- [ ] Kiểm tra prototype A/B/C đều mở được.
-- [ ] Test với 3 người ngoài nhóm.
-- [ ] Điền Feedback Note cá nhân bằng dữ liệu thật.
-- [ ] Tổng hợp nhóm và chốt đúng một Next Change.
-- [ ] Cập nhật AI Support Log theo đóng góp thực tế.
+- [x] Bổ sung tên nhóm và đủ 3 thành viên.
+- [x] Kiểm tra prototype A/B/C đều mở được.
+- [x] Test với 3 người ngoài nhóm.
+- [x] Điền Feedback Note cá nhân bằng dữ liệu thật.
+- [x] Tổng hợp nhóm và chốt đúng một Next Change.
+- [x] Cập nhật AI Support Log theo đóng góp thực tế.
